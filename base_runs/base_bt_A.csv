@@ -1,0 +1,2 @@
+Configuration,grade1,CPI,BW/s((GB/sec),GFLOPS/s,Vectorization,Power(W),Temperature(C),Time(sec)
+base 228 threads,172.8178,4.8178,83.4359,38.6373,2.5416,179.0,84.0,"[12.82819, 13.63866, 12.82751, 13.05979]"

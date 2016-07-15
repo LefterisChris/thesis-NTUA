@@ -1,0 +1,2 @@
+Configuration,grade1,CPI,BW/s(GB/sec),GFLOPS/s,Vectorization,Power(W),Temperature(C),Time(sec)
+[' '],113.6495,1.6495,0.1328,0.1284,1.0012,100.0,56.0,"[19.61524, 19.65432, 19.65067, 19.56885]"

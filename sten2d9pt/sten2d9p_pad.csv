@@ -1,0 +1,11 @@
+Configuration,grade1,CPI,BW/s((GB/sec),GFLOPS/s,Vectorization,Power(W),Temperature(C),Time(sec)
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll=0 ', '', '57', '3', 'scatter']",0.2294,9.4437,62.0382,74.7567,8.2569,183.0,78.0,23.56108
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll=0 ', '', '57', '4', 'scatter']",0.3215,13.1805,89.4429,78.7485,8.2569,186.0,79.0,22.49966
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '19', '2', 'scatter']",0.1339,4.9592,30.1202,55.0541,8.2568,145.0,75.0,32.18241
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '19', '3', 'scatter']",0.219,6.0811,49.5106,60.2632,8.2568,150.0,70.0,29.40067
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '19', '4', 'scatter']",0.276,8.5703,62.8113,54.3814,8.2569,150.0,69.0,32.58067
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '38', '2', 'scatter']",0.209,4.9784,51.8197,94.7507,8.2569,170.0,73.0,18.69941
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '38', '3', 'scatter']",0.2536,7.2504,65.7517,79.7536,8.2569,177.0,75.0,22.21579
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '38', '4', 'scatter']",0.3211,11.3364,82.9535,73.082,8.2569,172.0,75.0,24.24398
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '57', '2', 'scatter']",0.2466,5.3358,69.3859,126.4933,8.2569,198.0,78.0,13.88371
+"['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '57', '3', 'scatter']",0.2296,9.3243,62.0797,74.8094,8.2569,183.0,78.0,23.54447

@@ -1,0 +1,2 @@
+"CPI","Time(sec)","Temperature(C)","BW/s(GB/sec)","Vector","GFLOPS/s","Configuration","Power(W)"
+"9.324323441989673","23.54447","78.0","62.07968930012244","8.256900899557296","74.80939431930295","['-O2 ', '-opt-prefetch=0 ', '-opt-streaming-stores always ', '-opt-streaming-cache-evict=3 ', '-unroll ', '', '57', '3', 'scatter']","183.0"

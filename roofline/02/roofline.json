@@ -1,0 +1,179 @@
+{
+   "empirical": {
+      "gbytes": {
+         "data": [
+            [
+               "L1", 
+               2321.5
+            ], 
+            [
+               "L2", 
+               1175.39
+            ], 
+            [
+               "DRAM", 
+               98.62
+            ]
+         ], 
+         "metadata": {
+            "TIMESTAMP_DATA": [
+               1460123450.33, 
+               1460123452.88, 
+               1460123455.41, 
+               1460123445.24, 
+               1460123447.8
+            ], 
+            "FLOPS": 1, 
+            "TIMESTAMP_DB": 1460126740.825377
+         }
+      }, 
+      "gflops": {
+         "data": [
+            [
+               "GFLOPs", 
+               975.92
+            ]
+         ], 
+         "metadata": {
+            "TIMESTAMP_DATA": [
+               1460124936.52, 
+               1460124871.66, 
+               1460124904.1, 
+               1460124920.34, 
+               1460124887.9
+            ], 
+            "FLOPS": 512, 
+            "TIMESTAMP_DB": 1460126740.82475
+         }
+      }, 
+      "metadata": {
+         "ERT_VERSION": "1.1.0", 
+         "OPENMP_THREADS": 228, 
+         "HOSTNAME": [
+            "phaethon.microlab.ntua.gr", 
+            [
+               "phaethon"
+            ], 
+            [
+               "147.102.37.70"
+            ]
+         ], 
+         "CONFIG": {
+            "ERT_WORKING_SET_MIN": [
+               "1"
+            ], 
+            "ERT_CFLAGS": [
+               "-O3", 
+               "-mmic", 
+               "-fno-alias", 
+               "-fno-fnalias", 
+               "-opt-streaming-stores", 
+               "auto", 
+               "-opt-streaming-cache-evict=2", 
+               "-DERT_INTEL"
+            ], 
+            "ERT_CC": [
+               "icc"
+            ], 
+            "ERT_OPENMP_LDFLAGS": [
+               "-openmp"
+            ], 
+            "ERT_MEMORY_MAX": [
+               "1073741824"
+            ], 
+            "ERT_PROCS_THREADS": [
+               "57,114,228"
+            ], 
+            "ERT_LDFLAGS": [
+               "-mmic", 
+               "-Wl,-rpath=/home/echristof/libraries"
+            ], 
+            "ERT_LDLIBS": [], 
+            "ERT_SPEC_GBYTES_DRAM": [
+               "240.0"
+            ], 
+            "ERT_RUN": [
+               "export", 
+               "KMP_AFFINITY=scatter;", 
+               "export", 
+               "OMP_NUM_THREADS=ERT_OPENMP_THREADS;", 
+               "ERT_CODE"
+            ], 
+            "ERT_FLOPS": [
+               "1,2,4,8,16,32,64,128,256,512"
+            ], 
+            "ERT_OPENMP_CFLAGS": [
+               "-openmp"
+            ], 
+            "ERT_SPEC_GFLOPS": [
+               "2000.0"
+            ], 
+            "ERT_MPI": [
+               "False"
+            ], 
+            "ERT_TRIALS_MIN": [
+               "1"
+            ], 
+            "ERT_DRIVER": [
+               "driver1"
+            ], 
+            "ERT_RESULTS": [
+               "Results.IntelPhi.gov.02"
+            ], 
+            "ERT_GPU": [
+               false
+            ], 
+            "ERT_MPI_PROCS": [
+               "1"
+            ], 
+            "ERT_KERNEL": [
+               "kernel1"
+            ], 
+            "ERT_OPENMP": [
+               "True"
+            ], 
+            "ERT_OPENMP_THREADS": [
+               "57,114,228"
+            ], 
+            "ERT_LD": [
+               "icc"
+            ], 
+            "ERT_NUM_EXPERIMENTS": [
+               "5"
+            ], 
+            "ERT_ALIGN": [
+               "64"
+            ], 
+            "ERT_GNUPLOT": [
+               "gnuplot"
+            ]
+         }, 
+         "UNAME": [
+            "Linux", 
+            "phaethon.microlab.ntua.gr", 
+            "3.10.0-229.4.2.el7.x86_64", 
+            "#1 SMP Wed May 13 10:06:09 UTC 2015", 
+            "x86_64", 
+            "x86_64"
+         ]
+      }
+   }, 
+   "spec": {
+      "gbytes": {
+         "data": [
+            [
+               "DRAM", 
+               240.0
+            ]
+         ]
+      }, 
+      "gflops": {
+         "data": [
+            [
+               "GFLOPs", 
+               2000.0
+            ]
+         ]
+      }
+   }
+}

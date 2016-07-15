@@ -1,0 +1,2 @@
+Best rmse=0.922457 for lambda1=0.001000 lambda2=0.003000 reg1=0.050000 reg2=0.050000
+SVD plus: RMSE from test data = 0.955754

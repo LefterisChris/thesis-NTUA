@@ -1,0 +1,35 @@
+STRUCT,Info,3
+CPU name:,0b/01,
+CPU type:,Intel Xeon Phi (Knights Corner) Coprocessor,
+CPU clock:,1.094664923 GHz,
+TABLE,Group 1 Raw,Custom,3
+Event,Counter,Core 1
+Runtime (RDTSC) [s],TSC,5.054068e-01
+VPU_INSTRUCTIONS_EXECUTED,PMC0,13310458
+VPU_ELEMENTS_ACTIVE,PMC1,25716048
+STRUCT,Info,3
+CPU name:,0b/01,
+CPU type:,Intel Xeon Phi (Knights Corner) Coprocessor,
+CPU clock:,1.092349895 GHz,
+TABLE,Group 1 Raw,Custom,3
+Event,Counter,Core 1
+Runtime (RDTSC) [s],TSC,4.900143e-01
+INSTRUCTIONS_EXECUTED,PMC0,39108659
+CPU_CLK_UNHALTED,PMC1,180239426
+STRUCT,Info,3
+CPU name:,0b/01,
+CPU type:,Intel Xeon Phi (Knights Corner) Coprocessor,
+CPU clock:,1.094665595 GHz,
+TABLE,Group 1 Raw,Custom,3
+Event,Counter,Core 1
+Runtime (RDTSC) [s],TSC,5.914109e-01
+L2_DATA_READ_MISS_MEM_FILL,PMC0,665644
+DATA_CACHE_LINES_WRITTEN_BACK,PMC1,2231609
+STRUCT,Info,3
+CPU name:,0b/01,
+CPU type:,Intel Xeon Phi (Knights Corner) Coprocessor,
+CPU clock:,1.092115617 GHz,
+TABLE,Group 1 Raw,Custom,2
+Event,Counter,Core 1
+Runtime (RDTSC) [s],TSC,5.588821e-01
+L2_DATA_WRITE_MISS_MEM_FILL,PMC0,142649

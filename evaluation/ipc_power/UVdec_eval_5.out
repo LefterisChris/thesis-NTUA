@@ -1,0 +1,54 @@
+TEST: UVdec_sradv2
+Count of maxes: actuals=1 predicted=1
+Actual max: index=2873 value=4.497278
+Predicted max: index=335 value=4.432173
+Actual value from prediction: 4.469881
+Degradation in performance: -0.609191%
+Change from base rating: 8.64-fold improvement.
+--------------------------------
+
+TEST: UVdec_cfd
+Count of maxes: actuals=1 predicted=1
+Actual max: index=1064 value=4.579562
+Predicted max: index=704 value=4.512119
+Actual value from prediction: 4.242349
+Degradation in performance: -7.363433%
+Change from base rating: 3.61-fold improvement.
+--------------------------------
+
+TEST: UVdec_streamcluster
+Count of maxes: actuals=1 predicted=1
+Actual max: index=605 value=4.012238
+Predicted max: index=983 value=3.802856
+Actual value from prediction: 3.933886
+Degradation in performance: -1.952825%
+Change from base rating: 3.02-fold improvement.
+--------------------------------
+
+TEST: UVdec_nn
+Count of maxes: actuals=1 predicted=1
+Actual max: index=2117 value=6.373608
+Predicted max: index=1190 value=6.460603
+Actual value from prediction: 6.252734
+Degradation in performance: -1.896477%
+Change from base rating: 2.86-fold improvement.
+--------------------------------
+
+TEST: UVdec_lu
+Count of maxes: actuals=1 predicted=1
+Actual max: index=424 value=6.785066
+Predicted max: index=1064 value=6.738383
+Actual value from prediction: 6.174589
+Degradation in performance: -8.997363%
+Change from base rating: 4.78-fold improvement.
+--------------------------------
+
+TEST: UVdec_mg
+Count of maxes: actuals=1 predicted=1
+Actual max: index=434 value=3.896091
+Predicted max: index=218 value=3.656993
+Actual value from prediction: 3.628947
+Degradation in performance: -6.856719%
+Change from base rating: 5.72-fold improvement.
+--------------------------------
+
